@@ -10,6 +10,7 @@ import com.br.natanfc.filmesflix.viewmode.MovieListViewModel
 import kotlinx.android.synthetic.main.activity_main.*
 
 class MainActivity : AppCompatActivity() {
+    //oi
 
     private lateinit var movieListViewModel: MovieListViewModel
 
